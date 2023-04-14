@@ -1,0 +1,7 @@
+[2023-04-14 14:02:17,522] INFO [AdminClient clientId=adminclient-10] Node 0 disconnected. (org.apache.kafka.clients.NetworkClient:937)
+[2023-04-14 14:07:17,636] INFO [AdminClient clientId=adminclient-10] Node 0 disconnected. (org.apache.kafka.clients.NetworkClient:937)
+[2023-04-14 14:12:17,757] INFO [AdminClient clientId=adminclient-10] Node 0 disconnected. (org.apache.kafka.clients.NetworkClient:937)
+[2023-04-14 14:17:17,879] INFO [AdminClient clientId=adminclient-10] Node 0 disconnected. (org.apache.kafka.clients.NetworkClient:937)
+[2023-04-14 14:22:17,995] INFO [AdminClient clientId=adminclient-10] Node 0 disconnected. (org.apache.kafka.clients.NetworkClient:937)
+[2023-04-14 14:27:18,114] INFO [AdminClient clientId=adminclient-10] Node 0 disconnected. (org.apache.kafka.clients.NetworkClient:937)
+[2023-04-14 14:32:18,277] INFO [AdminClient clientId=adminclient-10] Node 0 disconnected. (org.apache.kafka.clients.NetworkClient:937)
